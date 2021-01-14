@@ -1,0 +1,1 @@
+# Cookies in Next.js

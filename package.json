@@ -1,0 +1,17 @@
+{
+  "name": "next-cookies",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "js-cookie": "^2.2.1",
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
